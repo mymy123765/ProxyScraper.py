@@ -1,5 +1,5 @@
 print'EasyProxy'
-print'Developed by 'Undercore'
+print'Developed by Undercore'
 print'version 1.0'
 print'[%]scraping started'
 import urllib
